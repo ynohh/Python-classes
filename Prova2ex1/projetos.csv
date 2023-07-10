@@ -1,0 +1,9 @@
+codigo_projeto, tipo_projeto, duracao_total, valor_orcado, valor_gasto
+100, 'Desenvolvimento software', 120, 5500, 5800
+101, 'Implantação software', 200, 12300, 11800
+200, 'Revisão de processos', 80, 560, 1200
+201, 'Desenvolvimento de software', 400, 23000, 27000
+202, 'Implantação software', 300, 31000, 29800
+205, 'Implantação software', 120, 13500, 14200
+301, 'Desenvolvimento de software', 600, 42500, 48000
+305, 'Desenvolvimento de software', 700, 55500, 52400
